@@ -28,6 +28,6 @@ MoveLink is a simple interactive JavaScript web application demonstrating dynami
 - Improving user interaction flow
 
 ## 📸 Preview
-<img width="1919" height="915" alt="Link" src="https://github.com/user-attachments/assets/458e552c-5764-4936-a97e-eb26b0140643" />
+<img width="1919" height="919" alt="Liiink" src="https://github.com/user-attachments/assets/0fb732fa-b255-451d-bfaa-3b3985ba5ac1" />
 
-ll
+
