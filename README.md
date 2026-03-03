@@ -20,10 +20,6 @@ MoveLink is a simple interactive JavaScript web application demonstrating dynami
 1. Clone the repository  
 2. Open `index.html` in your browser  
 
-## 🌍 Live Demo
-
-(Add GitHub Pages link here)
-
 ## 📚 What I Learned
 
 - Handling DOM events
