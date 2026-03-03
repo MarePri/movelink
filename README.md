@@ -1,27 +1,32 @@
 # MoveLink
 
-MoveLink je jednostavna JavaScript web aplikacija koja demonstrira rad sa DOM manipulacijom i interaktivnim elementima u browseru.
+MoveLink is a simple interactive JavaScript web application demonstrating dynamic DOM manipulation and user interaction handling.
 
-## 🚀 Funkcionalnosti
+## 🚀 Features
 
-- Dinamičko pomeranje / manipulacija elemenata
-- Reagovanje na korisničke akcije (click events)
-- Ažuriranje sadržaja u realnom vremenu
+- Interactive UI elements
+- Dynamic content updates
+- Event-driven behavior
+- Real-time element manipulation
 
-## 🛠 Tehnologije
+## 🛠 Technologies Used
 
 - HTML
 - CSS
-- JavaScript (ES6)
+- JavaScript
 
-## ▶ Kako pokrenuti
+## ▶ How to Run
 
-1. Kloniraj repozitorijum
-2. Otvori `index.html` u browseru
+1. Clone the repository  
+2. Open `index.html` in your browser  
 
-## 📚 Šta sam naučio
+## 🌍 Live Demo
 
-- Rad sa DOM API-jem
-- Event handling
-- Organizacija JavaScript logike
-- Struktura jednostavne web aplikacije
+(Add GitHub Pages link here)
+
+## 📚 What I Learned
+
+- Handling DOM events
+- Updating elements dynamically
+- Structuring front-end logic
+- Improving user interaction flow
